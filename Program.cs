@@ -67,11 +67,6 @@ namespace project_06_10_17
                             Console.WriteLine("Dados Inválidos");
                         }
                     }
-
-                    //string [] dado = new string[10];
-                    //dado[0]= "nome";
-                    //Console.WriteLine(dado[0]);
-
         }
     }
 }
