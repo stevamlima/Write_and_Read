@@ -6,7 +6,50 @@ namespace project_06_10_17
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            //Variaveis
+            Console.WriteLine("");
+            Console.WriteLine("=======================================================");
+            Console.WriteLine("Olá, precisamos de algumas informações para iniciar");
+            Console.WriteLine("o seu cadastro. Por favor, digite seu:");
+            Console.WriteLine("");
+            Console.Write("NOME:");
+            string nome = Console.ReadLine();
+            Console.Write("IDADE:");
+            string idade = Console.ReadLine();
+            Console.Write("RG::");
+            string rg = Console.ReadLine();
+            Console.Write("PROFISSÃO:");
+            string profissao = Console.ReadLine();
+            Console.Write("CIDADE:");
+            string cidade = Console.ReadLine();
+            Console.Write("GÊNERO:");
+            string genero = Console.ReadLine();
+            Console.Write("ESTADO CIVIL:");
+            string estadoCivil = Console.ReadLine();
+            Console.Write("LOCAL DE NASCIMENTO:");
+            string local = Console.ReadLine();
+            Console.Write("CPF:");
+            long cpf = long.Parse(Console.ReadLine());
+            Console.Write("ENDEREÇO:");
+            string endereco  = Console.ReadLine();
+            Console.WriteLine("======================================================="); 
+            Console.WriteLine("Resumo dos dados: ");
+            Console.WriteLine("NOME: "+nome);
+            Console.WriteLine("IDADE: "+idade);
+            Console.WriteLine("RG: "+rg);
+            Console.WriteLine("PROFISSÃO: "+profissao);
+            Console.WriteLine("CIDADE: "+cidade);
+            Console.WriteLine("GÊNERO: "+genero);
+            Console.WriteLine("ESTADO CIVIL: "+estadoCivil);
+            Console.WriteLine("LOCAL DE NASCIMENTO: "+local);
+            Console.WriteLine("CPF: "+cpf);
+            Console.WriteLine("ENDEREÇO: "+endereco);
+            Console.WriteLine("=======================================================");
+            
+
+            
+            
+            
         }
     }
 }
