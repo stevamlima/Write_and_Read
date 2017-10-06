@@ -8,7 +8,7 @@ namespace project_06_10_17
         {
             //Variaveis
             //(nome; idade; rg; profissao; cidade; genero; estadoCivil; local; cpf; endereco;)
-            
+            //===========================================================================
             Console.WriteLine("");
             Console.WriteLine("=======================================================");
             Console.WriteLine("Olá, precisamos de algumas informações para iniciar");
@@ -31,10 +31,11 @@ namespace project_06_10_17
             Console.Write("LOCAL DE NASCIMENTO:");
             string local = Console.ReadLine();
             Console.Write("CPF:");
-            long cpf = long.Parse(Console.ReadLine());
+            string cpf = Console.ReadLine();
             Console.Write("ENDEREÇO:");
             string endereco  = Console.ReadLine();
-            Console.WriteLine("======================================================="); 
+            //===========================================================================
+            Console.WriteLine("============================================="); 
             Console.WriteLine("Resumo dos dados: ");
             Console.WriteLine("NOME: "+nome);
             Console.WriteLine("IDADE: "+idade);
@@ -46,11 +47,15 @@ namespace project_06_10_17
             Console.WriteLine("LOCAL DE NASCIMENTO: "+local);
             Console.WriteLine("CPF: "+cpf);
             Console.WriteLine("ENDEREÇO: "+endereco);
-            Console.WriteLine("=======================================================");
-            
+            Console.WriteLine("=============================================");
+            //===========================================================================
 
-            
-            
+
+            //string [] dado = new string[10];
+            //dado[0]= "nome";
+            //Console.WriteLine(dado[0]);
+
+
             
         }
     }
