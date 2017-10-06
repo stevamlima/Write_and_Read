@@ -50,6 +50,7 @@ namespace project_06_10_17
                     //===========================================================================
                     Console.WriteLine("============================================="); 
                     Console.WriteLine("Resumo dos dados: ");
+                    Console.WriteLine("");
                     Console.WriteLine("NOME: "+nome);
                     Console.WriteLine("IDADE: "+idade);
                     Console.WriteLine("RG: "+rg);
