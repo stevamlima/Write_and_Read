@@ -7,6 +7,8 @@ namespace project_06_10_17
         static void Main(string[] args)
         {
             //Variaveis
+            //(nome; idade; rg; profissao; cidade; genero; estadoCivil; local; cpf; endereco;)
+            
             Console.WriteLine("");
             Console.WriteLine("=======================================================");
             Console.WriteLine("Olá, precisamos de algumas informações para iniciar");
@@ -16,7 +18,7 @@ namespace project_06_10_17
             string nome = Console.ReadLine();
             Console.Write("IDADE:");
             string idade = Console.ReadLine();
-            Console.Write("RG::");
+            Console.Write("RG:");
             string rg = Console.ReadLine();
             Console.Write("PROFISSÃO:");
             string profissao = Console.ReadLine();
