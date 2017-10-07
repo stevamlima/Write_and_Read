@@ -25,7 +25,7 @@ namespace project_06_10_17
                     Console.WriteLine("");
                     Console.WriteLine("=======================================================");
                     Console.WriteLine("Olá, precisamos de algumas informações para concluir");
-                    Console.WriteLine("o seu cadastro. Por favor, digite seu:");
+                    Console.WriteLine("o seu cadastro. Por favor, digite seu(a):");
                     Console.WriteLine("");
                     Console.Write("NOME:");
                     string nome = Console.ReadLine();
