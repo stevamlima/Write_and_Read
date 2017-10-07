@@ -11,7 +11,7 @@ namespace project_06_10_17
             //===========================================================================
             Console.WriteLine("");
             Console.WriteLine("=======================================================");
-            Console.WriteLine("Existe algumas pendências na sua conta. Faça login e");
+            Console.WriteLine("Existem algumas pendências na sua conta. Faça login e");
             Console.WriteLine("resolva. Digite seu nome de usuário e senha abaixo:");
             Console.WriteLine("");
             int condicao = 1;
@@ -62,6 +62,7 @@ namespace project_06_10_17
                     Console.WriteLine("CPF: "+cpf);
                     Console.WriteLine("ENDEREÇO: "+endereco);
                     Console.WriteLine("=============================================");
+                    break;
                     //===========================================================================
                         }
                         else{
