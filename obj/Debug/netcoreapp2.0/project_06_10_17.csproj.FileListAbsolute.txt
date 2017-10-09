@@ -8,3 +8,13 @@ c:\Users\FIC\Desktop\project_06_10_17\obj\Debug\netcoreapp2.0\project_06_10_17.A
 c:\Users\FIC\Desktop\project_06_10_17\obj\Debug\netcoreapp2.0\project_06_10_17.AssemblyInfo.cs
 c:\Users\FIC\Desktop\project_06_10_17\obj\Debug\netcoreapp2.0\project_06_10_17.dll
 c:\Users\FIC\Desktop\project_06_10_17\obj\Debug\netcoreapp2.0\project_06_10_17.pdb
+c:\Users\Windows\Desktop\project_06_10_17\bin\Debug\netcoreapp2.0\project_06_10_17.deps.json
+c:\Users\Windows\Desktop\project_06_10_17\bin\Debug\netcoreapp2.0\project_06_10_17.runtimeconfig.json
+c:\Users\Windows\Desktop\project_06_10_17\bin\Debug\netcoreapp2.0\project_06_10_17.runtimeconfig.dev.json
+c:\Users\Windows\Desktop\project_06_10_17\bin\Debug\netcoreapp2.0\project_06_10_17.dll
+c:\Users\Windows\Desktop\project_06_10_17\bin\Debug\netcoreapp2.0\project_06_10_17.pdb
+c:\Users\Windows\Desktop\project_06_10_17\obj\Debug\netcoreapp2.0\project_06_10_17.csproj.CoreCompileInputs.cache
+c:\Users\Windows\Desktop\project_06_10_17\obj\Debug\netcoreapp2.0\project_06_10_17.AssemblyInfoInputs.cache
+c:\Users\Windows\Desktop\project_06_10_17\obj\Debug\netcoreapp2.0\project_06_10_17.AssemblyInfo.cs
+c:\Users\Windows\Desktop\project_06_10_17\obj\Debug\netcoreapp2.0\project_06_10_17.dll
+c:\Users\Windows\Desktop\project_06_10_17\obj\Debug\netcoreapp2.0\project_06_10_17.pdb
